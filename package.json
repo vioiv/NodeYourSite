@@ -1,0 +1,22 @@
+{
+  "name": "your-site",
+  "version": "1.0.0",
+  "description": "This site is for SY.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vioiv/NodeYourSite.git"
+  },
+  "author": "JeongHoon, Kim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vioiv/NodeYourSite/issues"
+  },
+  "homepage": "https://github.com/vioiv/NodeYourSite#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
